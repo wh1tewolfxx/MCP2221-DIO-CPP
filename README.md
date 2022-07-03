@@ -1,5 +1,5 @@
 # MCP2221-DIO-CPP
-Simple implementation of Digital IO using MCP2221 device and library im c++.
+Simple implementation of Digital IO using MCP2221 device and library in c++.
 
 ## TODO
 - Create README.md
